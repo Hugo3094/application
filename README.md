@@ -7,3 +7,5 @@ ayant la structure suivante:
 ```yaml
 JETON_API="####" #renseigner la valeur pertinente
 ```
+
+[![Construction image Docker](https://github.com/Hugo3094/application/actions/workflows/docker.yaml/badge.svg)](https://github.com/Hugo3094/application/actions/workflows/docker.yaml)
